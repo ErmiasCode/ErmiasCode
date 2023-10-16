@@ -1,4 +1,4 @@
-## Fullstack Web Developer | Passionate about Crafting Digital Experiences
+## Fullstack Web & App Developer | Passionate about Crafting Digital Experiences
 
 👋 Hi there, welcome to my GitHub!
 I'm a passionate Fullstack Web & App Developer from Germany and dedicated to crafting exceptional digital experiences.
