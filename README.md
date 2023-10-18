@@ -1,3 +1,9 @@
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20and%20App%20Developer;Experienced%20UI%2FUX%20Designer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=fff&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
 ## Fullstack Web & App Developer | Passionate about Crafting Digital Experiences
 
 👋 Hi there, welcome to my GitHub!
@@ -17,6 +23,7 @@ So, let's connect and embark on a journey to redefine what's possible in web and
 - 🌟 Always experimenting with emerging web technologies and learn, adapt, and explore new challenges.
   
 ### Skills
+
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
